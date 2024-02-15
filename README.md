@@ -1,5 +1,5 @@
 This project is an evaluated assignment for the Risk management class of the Master in Data Mining and Business Intelligence at Complutense University of Madrid. 
-The project is carried out with the help of SAS Enterprise Miner and a report is written in Spanish.
+The project is carried out with the help of SAS Enterprise Miner and a report is written in Spanish.  
 An overview of the project:
 
     1. Context: 
