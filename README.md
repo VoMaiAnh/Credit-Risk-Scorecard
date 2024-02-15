@@ -18,7 +18,7 @@ The folder provided by MovilTV consists of 3 sets of data:
   • Scoring_CS: Blind data that you have to score and select which observations are selected. 
 Apart from the data, we have a "Dictionary of Variables" that explains the meaning of the variables contained in the dataset.
 
-  4. Process's stages:
+    4. Process's stages:
 The purpose of this work is to create a scorecard to select customers who have a high propensity to pay, therefore, the work is composed of the following main sections:
 • Exploratory descriptive analysis of the data: Perform a formal and graphical exploration for the 3 data sets.
 • Data transformation: Impute absent data, deal with outliers. 
